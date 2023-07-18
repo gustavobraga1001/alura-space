@@ -1,3 +1,4 @@
+import './styles/estilosGlobais.scss'
 import PaginaIncial from "./paginas/PaginaInicial";
 
 function App() {

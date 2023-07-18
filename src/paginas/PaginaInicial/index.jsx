@@ -1,7 +1,9 @@
+import Cabecalho from "../../components/Cabecalho"
+
 const PaginaIncial = () => {
     return (
         <div>
-            <h1>Página Inicial</h1>
+            <Cabecalho />
         </div>
     )
 }
