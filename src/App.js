@@ -1,5 +1,5 @@
 import './styles/estilosGlobais.scss'
-import PaginaIncial from "./paginas/PaginaInicial";
+import PaginaIncial from "./pages/PaginaInicial";
 
 function App() {
   return (
