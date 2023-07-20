@@ -11,7 +11,7 @@ const PaginaIncial = () => {
                 <section className={styles.principal}>
                     <Menu /> 
                     <div className={styles.principal__imagem}>
-                        <h1>A galeria mais completa do espaço</h1>   
+                        <h1>A galeria mais completa de fotos do espaço!</h1>   
                         <img src={banner} alt="Imagem da Terra vista do espaço" />
                     </div>
                 </section>
