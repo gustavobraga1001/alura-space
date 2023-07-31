@@ -1,6 +1,7 @@
 import React from 'react'
 import styles from './populares.module.scss'
 import fotosPopulares from './fotos-populares.json'
+import Botao from 'components/Botao'
 
 const Populares = () => {
   return (
@@ -15,7 +16,7 @@ const Populares = () => {
                 )
             })}
         </ul>
-        <button >Ver mais fotos</button>
+        <Botao children="Ver mais Fotos"/>
     </aside>
   )
 }
