@@ -1,13 +1,6 @@
 @import "../../styles/variaveis";
 
 .galeria {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  flex-direction: column ;
-  margin-left: 17%;
-  margin-top: 1rem;
-  
   font-family: $fonte-normal;
   margin-bottom: 2rem;
 
@@ -31,7 +24,6 @@
     width: 285px;
     margin-right: 1rem;
     margin-bottom: 1.35rem;
-    padding-bottom: 20px;
     cursor: pointer;
 
     &:hover {
